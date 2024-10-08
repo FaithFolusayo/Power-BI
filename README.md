@@ -60,6 +60,9 @@ The analysis of vendor and material performance across different plants location
  
 # Conclusion
 This analysis provides a comprehensive overview of supplier performance at Enterprise Ltd., highlighting key insights into the vendors, material types, and plants contributing the most to defects and downtime. The insights from this analysis enables us to monitor the quality of goods thereby reducing downtime by helping us identify the suppliers providing bad quality goods. By addressing these areas, the company can reduce defects, minimize downtime, and improve the overall operation.
+
+# Link to interact with the dashboard: 
+https://app.powerbi.com/view?r=eyJrIjoiZDZmOWY5YjQtOWQ5NS00ZGRkLTk5ODktNmM0NzM5NmU1MGU4IiwidCI6ImNiZTdhMDkxLWI5ZDAtNGVhZS04ZDVkLTUyNTgyZWNlMmE2YyJ9
  
 
 
